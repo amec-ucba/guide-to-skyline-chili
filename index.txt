@@ -1,0 +1,64 @@
+A GUIDE TO SKYLINE CHILI: HOME PAGE CONTENT
+
+Copy the text below into your pages. Don't turn this file into a web page.
+
+Lines that start with "Page title:" and "Page description:" belong in each page's head.
+Lines in [square brackets] show where an image goes, the image file to use, and its caption.
+Write your own alt text for every image.
+
+==============================================================
+EVERY PAGE
+==============================================================
+
+[Logo: images/logo.webp. It links to the Home page.]
+
+Home
+Menu
+Our Story
+
+Favicon: images/favicon.png
+
+Skyline Chili, Clifton
+290 Ludlow Ave, Cincinnati, OH 45220
+(513) 221-2142
+help@skylinechili.com
+
+© 2027 A Guide to Skyline Chili. A student project. Not affiliated with Skyline Chili, Inc.
+
+==============================================================
+HOME
+==============================================================
+
+Page title: Home: A Guide to Skyline Chili
+Page description: A fan guide to Skyline Chili, the Cincinnati chili parlor, and its Clifton location on Ludlow Avenue, just down the street from UC.
+
+A Guide to Skyline Chili
+
+Skyline Chili has been serving Cincinnati chili since 1949. It isn't the thick, spicy chili most people picture. It's a thin meat sauce with a hint of sweet spice, served over spaghetti or a hot dog and buried under a mound of shredded cheddar.
+
+The Clifton Parlor
+
+[Image: images/clifton-exterior.webp. Caption: The Clifton parlor on Ludlow Avenue, a short walk from UC's campus.]
+
+The Clifton parlor sits in the Gaslight District on Ludlow Avenue, a short walk from UC's campus. It's a favorite for a quick lunch between classes & a late dinner after a game.
+
+Crosstown Shootout
+
+Skyline sponsors the Crosstown Shootout, the yearly basketball game between UC and Xavier, Cincinnati's two Division I men's teams.
+
+Your First Visit
+
+Never been to Skyline? A few tips before you go:
+
+Start with a 3-way or two cheese coneys.
+Grab extra napkins & don't wear a white shirt.
+Try a few oyster crackers on top of your chili.
+Save room for one more coney. You'll want it.
+
+What's in This Guide
+
+The Menu
+What a 3-way, 4-way, and 5-way are, what goes on a coney, and how to order like a local.
+
+Our Story
+How a Greek immigrant opened a chili parlor in Price Hill and named it for the view.

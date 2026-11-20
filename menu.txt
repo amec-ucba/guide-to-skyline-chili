@@ -1,0 +1,89 @@
+A GUIDE TO SKYLINE CHILI: MENU PAGE CONTENT
+
+Copy the text below into your pages. Don't turn this file into a web page.
+
+Lines that start with "Page title:" and "Page description:" belong in each page's head.
+Lines in [square brackets] show where an image goes, the image file to use, and its caption.
+Write your own alt text for every image.
+
+==============================================================
+EVERY PAGE
+==============================================================
+
+[Logo: images/logo.webp. It links to the Home page.]
+
+Home
+Menu
+Our Story
+
+Favicon: images/favicon.png
+
+Skyline Chili, Clifton
+290 Ludlow Ave, Cincinnati, OH 45220
+(513) 221-2142
+help@skylinechili.com
+
+© 2027 A Guide to Skyline Chili. A student project. Not affiliated with Skyline Chili, Inc.
+
+==============================================================
+MENU
+==============================================================
+
+Page title: Menu: A Guide to Skyline Chili
+Page description: What a 3-way, 4-way, 5-way, and cheese coney are at Skyline Chili, plus how to order like a Cincinnati local.
+
+The Menu
+
+At Skyline, you order chili by counting. Each "way" adds one more topping to the plate.
+
+Jump to: 3-Way, 4-Way, 5-Way, or Coneys.
+
+How to Order Like a Local
+
+Say the number, not the ingredients. Ask for "a 4-way bean" or "a 4-way onion," and say "two coneys" instead of "two hot dogs."
+
+3-Way
+
+[Image: images/three-way.webp. Caption: A 3-way: spaghetti, chili, and cheese.]
+
+The classic. Spaghetti is topped with Skyline's chili, then a mound of finely shredded cheddar cheese.
+
+4-Way
+
+[Image: images/four-way.webp. Caption: A 4-way, with oyster crackers on top.]
+
+A 3-way plus one more layer: either diced onions or red beans. Order a "4-way onion" or a "4-way bean."
+
+5-Way
+
+Everything: spaghetti, chili, onions, beans & cheese.
+
+Coneys
+
+[Image: images/cheese-coneys.webp. Caption: Three cheese coneys.]
+
+A cheese coney is a small hot dog in a steamed bun with mustard, chili, diced onions, and shredded cheddar. Most people order two or three.
+
+Oyster Crackers
+
+[Image: images/oyster-crackers.webp. Caption: Dine in, and a bowl of oyster crackers comes with your meal.]
+
+Eat in, and your meal comes with a bowl of oyster crackers. Some people crumble them on top of their chili, and some eat them by the handful while they wait.
+
+How to Eat a Way
+
+Locals don't twirl their spaghetti. Here's how they eat a 3-way, in order:
+
+Shake a little hot sauce over the cheese.
+Crumble a few oyster crackers on top.
+Cut straight down through the layers with the side of your fork.
+Scoop up a bite with spaghetti, chili, and cheese all at once.
+
+More on the Menu
+
+The ways and coneys are the stars, but Skyline serves more than that. Other favorites include:
+
+Chili cheese fries
+A baked potato topped with chili & cheese
+A chili burrito
+A Greek salad

@@ -1,0 +1,66 @@
+A GUIDE TO SKYLINE CHILI: OUR STORY PAGE CONTENT
+
+Copy the text below into your pages. Don't turn this file into a web page.
+
+Lines that start with "Page title:" and "Page description:" belong in each page's head.
+Lines in [square brackets] show where an image goes, the image file to use, and its caption.
+Write your own alt text for every image.
+
+==============================================================
+EVERY PAGE
+==============================================================
+
+[Logo: images/logo.webp. It links to the Home page.]
+
+Home
+Menu
+Our Story
+
+Favicon: images/favicon.png
+
+Skyline Chili, Clifton
+290 Ludlow Ave, Cincinnati, OH 45220
+(513) 221-2142
+help@skylinechili.com
+
+© 2027 A Guide to Skyline Chili. A student project. Not affiliated with Skyline Chili, Inc.
+
+==============================================================
+OUR STORY (our-story/index.html)
+==============================================================
+
+Page title: Our Story: A Guide to Skyline Chili
+Page description: How Nicholas Lambrinides, a Greek immigrant, opened Skyline Chili in Price Hill in 1949 and named it for the view of downtown Cincinnati.
+
+Our Story
+
+Skyline started with one family, one recipe, and one parlor on a hill on Cincinnati's west side.
+
+From Kastoria to Cincinnati
+
+Nicholas Lambrinides left Kastoria, Greece, in 1912 and settled in Cincinnati, bringing his family's recipes with him. He cooked at Empress Chili, the city's first chili parlor, and kept working on a recipe of his own.
+
+A City of Chili Parlors
+
+Cincinnati chili started with immigrants. Empress Chili opened in 1922, and Skyline followed in 1949. Gold Star Chili opened in 1965, and the friendly rivalry between Skyline & Gold Star fans is still going today.
+
+Why "Skyline"?
+
+[Image: images/clifton-sign.webp. Caption: The sign outside the Clifton parlor.]
+
+In 1949, Nicholas and his sons opened the first Skyline Chili in Price Hill. From the top of the hill, you could see the whole downtown skyline, so that's what he named it.
+
+The Secret Recipe
+
+The recipe is still a family secret. Nicholas told his sons not to change it: don't add anything, and don't take anything out. Today, there are Skyline parlors across Ohio, Kentucky, Indiana & Florida, and you can find its chili in grocery stores too.
+
+Back to Coke
+
+For its 75th anniversary in 2024, Skyline switched its drinks from Pepsi to Coca-Cola, the same soda it served when it opened in 1949.
+
+Skyline Through the Years
+
+1912: Nicholas Lambrinides leaves Kastoria, Greece, for Cincinnati.
+1922: Empress Chili, the city's first chili parlor, opens.
+1949: Nicholas and his sons open the first Skyline Chili in Price Hill.
+2024: Skyline turns 75 and goes back to Coca-Cola.

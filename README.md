@@ -1,18 +1,25 @@
-# 💻 Assignment Boilerplate
+# 💻 A Guide to Skyline Chili
 
-A starting point for assignment and exercise repos. It includes submission instructions, editor and Git configuration,
-and a pull request template so every assignment works the same way.
+Starter files for an independent multi-page HTML assignment. You will build a three-page fan
+guide to **Skyline Chili**, the Cincinnati chili parlor, from the text and photos in this repo.
+Along the way, you will show what you know about linking pages, organizing a site into folders,
+and choosing the right HTML element for each piece of content.
+
+There is no follow-along video for this assignment. You build it on your own, and a walkthrough
+video unlocks in Canvas after you submit. There is no CSS either, so the pages will look plain
+in the browser. **That is expected.**
 
 > [!NOTE]
 > `.editorconfig`, `.gitattributes`, `.gitignore`, `.noai`, and the `.github` and `.idea`
-> folders are setup files that keep assignments consistent. Leave them alone.
+> folders are setup files that keep assignments consistent. Leave them alone. `index.txt`,
+> `menu.txt`, `our-story.txt`, and the `images` folder are your starter files.
 
 ## 📋 Assignment Requirements
 
 > [!IMPORTANT]
 > **Start here: [read ASSIGNMENT.md →](.github/ASSIGNMENT.md)**
 
-It has the requirements, grading criteria, and due date. Read it before you start, and check it again before you submit.
+It has the overview, the requirements, the grading criteria, and a final checklist. Read it before you start, and check it again before you submit.
 
 ## ✅ At a Glance
 
@@ -22,17 +29,30 @@ Every assignment follows the same steps. Each guide has screenshots for every st
 |------|----------------------------------------------------------------------------|-----------------------------------------------|
 | 0    | **First assignment only:** install and set up WebStorm                     | [WebStorm Setup](.github/WEBSTORM_SETUP.md)   |
 | 1    | Create your repo from this template, clone it, and make a `develop` branch | [Getting Started](.github/GETTING_STARTED.md) |
-| 2    | Build your page in the root folder                                         | [Where Your Files Go](#-where-your-files-go)  |
+| 2    | Build your three pages from the `.txt` content files                       | [Where Your Files Go](#-where-your-files-go)  |
 | 3    | Commit and push often, then turn on GitHub Pages                           | [Publishing](.github/PUBLISHING.md)           |
 | 4    | Open a pull request into `main` and submit its URL in Canvas               | [Submitting](.github/SUBMITTING.md)           |
 
 ## 📂 Where Your Files Go
 
-Create your files in the **root folder** of this repo — the same folder as this README.
-GitHub Pages publishes from the root, so `index.html` has to live there or your site will 404. Group your assets into
-subfolders:
+This time you create every page yourself. The text for each page is in its own `.txt` file
+(`index.txt`, `menu.txt`, and `our-story.txt`), and the photos and logos are in `images`.
+Create the pages with **exactly** these names and folders, because the links between pages
+depend on them:
 
-<img src=".github/images/webstorm-project-files.png" alt="The WebStorm Project panel showing index.html in the root folder, with css/style.css, images/photo.jpg, and js/script.js in their own subfolders, all highlighted" width="350">
+```
+index.html
+menu.html
+our-story/
+    index.html
+images/
+index.txt
+menu.txt
+our-story.txt
+```
+
+`index.html` has to be in the root folder, or GitHub Pages will show a 404. The Our Story page
+is in its own `our-story` folder, so its links and images need `../`.
 
 ## 🤖 AI Policy
 
